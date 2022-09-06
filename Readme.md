@@ -6,4 +6,4 @@ Yet another face detector with Python and OpenCV !
 
 ## model
 
-You can download the model we used in this tutorial in OpenCV ![official repository](https://github.com/opencv/opencv).
+You can download the model we used in this tutorial in OpenCV [official repository](https://github.com/opencv/opencv).
